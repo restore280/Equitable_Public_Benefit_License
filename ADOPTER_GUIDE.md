@@ -18,7 +18,7 @@ This guide is the authoritative instructions for adopting EPBL. The README links
    - You may link to existing public filings (for example, Form 990) instead of duplicating content.  
    - Subject: `EPBL Attestation - <Org or Individual Name> - <Transparency Year>`  
    - Attach as PDF or Markdown. Name files like `EPBL-Attestation-OrgName-2025.pdf`.  
-3) Email the Attestation to **attest@lndmn.com** by the Reporting Deadline in the license.
+3) Email the Attestation to **attest@restore280.org** by the Reporting Deadline in the license.
 
 ## Reporting Deadline
 File by the earlier of:  
@@ -28,7 +28,7 @@ See Section 6 of the license.
 
 ## Annual checklist
 - Recompute FTE and Org Caps; update Attestation answers.  
-- Email the Attestation to **attest@lndmn.com** by the Reporting Deadline.  
+- Email the Attestation to **attest@restore280.org** by the Reporting Deadline.  
 - Retain the filed Attestation and supporting materials for 7 years.  
 - Maintainers: verify the README still shows the License badge from BADGE.md.
 

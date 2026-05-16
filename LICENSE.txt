@@ -37,7 +37,7 @@ This license is for software that advances broad public benefit. It permits use 
 
 1.15 Attestation means the annual compliance statement completed on the EPBL template for Organizations or Individuals and filed as described in Section 6.
 
-1.16 Attestation Inbox means the submission email address for Attestations: attest@lndmn.com.
+1.16 Attestation Inbox means the submission email address for Attestations: attest@restore280.org.
 
 1.17 Venue means California, USA; state courts in San Francisco County and the United States District Court for the Northern District of California.
 
@@ -126,9 +126,9 @@ Nothing in this section requires you to collect or store personal financial data
 
 6. Transparency and Attestation
 
-6.1 Single filing channel. File the Attestation each Transparency Year by email to the Attestation Inbox at attest@lndmn.com. Keep a copy of the filed Attestation and any attachments.
+6.1 Single filing channel. File the Attestation each Transparency Year by email to the Attestation Inbox at attest@restore280.org. Keep a copy of the filed Attestation and any attachments.
 
-6.1.1 Submission and receipt. Attestations must be sent to attest@lndmn.com as PDF or Markdown attachments. Attachments should not exceed twenty megabytes in total; if larger, provide a link to a publicly readable copy. An Attestation is deemed received on the earlier of (a) Licensor’s email acknowledgment, or (b) two Business Days measured in Pacific Time in California after a message without a bounce is sent, as shown by the Licensee’s SMTP server logs. Licensees must retain evidence of sending and any acknowledgment.
+6.1.1 Submission and receipt. Attestations must be sent to attest@restore280.org as PDF or Markdown attachments. Attachments should not exceed twenty megabytes in total; if larger, provide a link to a publicly readable copy. An Attestation is deemed received on the earlier of (a) Licensor’s email acknowledgment, or (b) two Business Days measured in Pacific Time in California after a message without a bounce is sent, as shown by the Licensee’s SMTP server logs. Licensees must retain evidence of sending and any acknowledgment.
 
 6.2 What to file. The Attestation must include:
   (a) the Transparency Year and the Measurement Date;

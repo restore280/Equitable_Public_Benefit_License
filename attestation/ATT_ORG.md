@@ -1,6 +1,6 @@
 # EPBL Attestation (Organization)
 
-Complete this form each Transparency Year and email it to **attest@lndmn.com**. Do not commit completed copies to this repository.
+Complete this form each Transparency Year and email it to **attest@restore280.org**. Do not commit completed copies to this repository.
 
 Entity: REPLACE-WITH-ORG-NAME  
 Transparency Year: 20XX  
